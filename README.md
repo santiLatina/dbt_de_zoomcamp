@@ -1,4 +1,4 @@
-#Welcome to your new dbt project!
+# Welcome to your new dbt project!
 
 This repo is about week 4 of de-zoomcampt
 
