@@ -1,4 +1,17 @@
-Welcome to your new dbt project!
+#Welcome to your new dbt project!
+
+This repo is about week 4 of de-zoomcampt
+
+### Week 4: Analytics engineering
+Basics of analytics engineering
+dbt (data build tool)
+BigQuery and dbt
+Postgres and dbt
+dbt models
+Testing and documenting
+Deployment to the cloud and locally
+Visualising the data with google data studio and metabase
+
 
 ### Using the starter project
 
